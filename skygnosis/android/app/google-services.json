@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "729077655466",
+    "project_id": "skygnosis-8e221",
+    "storage_bucket": "skygnosis-8e221.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729077655466:android:d15cad448a68bf40cd6dd3",
+        "android_client_info": {
+          "package_name": "com.example.skygnosis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729077655466-c013pff99k7siq26b4k92q1up61uj0u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAET-nyq08FP2uILFy5sUm7yJaOO_LxUps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729077655466-c013pff99k7siq26b4k92q1up61uj0u7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729077655466-rhre2g9t46f8imb1c0upne5hgh83bodu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.skygnosis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
