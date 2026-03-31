@@ -1,5 +1,3 @@
-Skygnosis
-
 Overview
 
 Skygnosis is a machine learning-based system designed to estimate Air Quality Index (AQI) levels from sky images. The idea is to use computer vision to capture visual patterns in the sky and map them to different air quality categories.
